@@ -13,12 +13,21 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   line-height: 1.6;
+  background: white !important;
+  background-color: white !important;
+}
+
+html {
+  background: white !important;
+  background-color: white !important;
 }
 
 #root {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  background: white !important;
+  background-color: white !important;
 }
 
 /* Custom scrollbar */
